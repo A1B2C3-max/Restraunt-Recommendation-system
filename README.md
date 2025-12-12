@@ -146,8 +146,8 @@ streamlit run app2.py
 Pull requests and suggestions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ##📬 Contact:<br>
--Author: Aniketanand Sandipkumar<br>
-📧 [Email-Id](aniketanand2712@gmail.com)<br>
-🔗 [LinkedIn](www.linkedin.com/in/aniketanand-sandipkumar-8475ab258)<br>
+-Author: Aryman Singh<br>
+📧 [Email-Id](arymansingh05@gmail.com)<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/aryman-singh-58b069222/)<br>
 [App link](https://restraunt-recommendation-system-qpuqi3rhwpv8appr2tgxrd.streamlit.app)
 
